@@ -1,4 +1,3 @@
-# Python-calc
+# Python-calc by zaqq99.
 
-## Welcome, I'm zaqq and this is my calculator in Python.
-#
+###  Welcome, I'm zaqq and this is my calculator app in Python.
